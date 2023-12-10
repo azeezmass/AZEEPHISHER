@@ -19,7 +19,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/MaxPhisher```
+ - ```git clone https://github.com/azeezmass/AZEEPHISHER.git```
 
 ##### Enter the directory
  - ```cd AZEEPHISHER```
@@ -161,4 +161,4 @@ https://github.com/azeezmass
 ## [~] Find Me on :
 
 
-- [![instagram](https://www.instagram.com/azeez__enchanter)
+https://www.instagram.com/azeez__enchanter
