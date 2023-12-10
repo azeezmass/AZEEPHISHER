@@ -25,7 +25,7 @@
  - ```cd AZEEPHISHER```
 
 ##### Install all modules
- - ```pip3 install -r files/requirements.txt --break-system-packages```
+ - ```pip3 install -r requirements.txt --break-system-packages```
 
 ##### Run the tool
  - ```python3 azeephisher.py```
